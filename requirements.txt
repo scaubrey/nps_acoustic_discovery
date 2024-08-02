@@ -1,4 +1,4 @@
-keras==2.0.4
+keras==2.13.1
 pandas==0.20.1
 h5py==2.7.0
 numpy==1.12.1
